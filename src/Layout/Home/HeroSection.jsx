@@ -5,7 +5,7 @@ const HeroSection = () => {
     <>
       <img
         className="relative w-screen object-fit md:h-screen -z-10"
-        src="hero-image.jpg"
+        src="../../../public/hero-image.jpg"
         alt="Home_Image
         "
       />
