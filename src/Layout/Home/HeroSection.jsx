@@ -6,8 +6,7 @@ const HeroSection = () => {
       <img
         className="relative w-screen object-fit md:h-screen -z-10"
         src="../../../public/hero-image.jpg"
-        alt="Home_Image
-        "
+        alt="homeimage"
       />
 
       <h1 className=" absolute sm:top-48 max-w-sm mx-auto text-white  left-10 sm:bottom-[200px] md:text-[60px]   lg:text-[40px] 2xl:text-[60px] md:left-[100px] font-bold -z-10 ">
